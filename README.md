@@ -10,4 +10,4 @@ this repository is for imishani studies.
 ## Lab 2 Ineractive mode:
 
 ## Lab B :
-<a https://github.com/imishani/Experiments_and_tests_Lab/tree/master/Lab_B>Lab B Data and python code </a>
+<a href="https://github.com/imishani/Experiments_and_tests_Lab/tree/master/Lab_B">Lab B Data and python code </a>
